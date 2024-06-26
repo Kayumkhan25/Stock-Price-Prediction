@@ -11,8 +11,8 @@ First dataset(DataGoogle.csv) has information about the google stock prices from
 <li>Close: Closing price of the stock that day.</li>
 <li>Volume: Volume of the stock on that particular day.</li>
 </ul>
-<ul>
 Second dataset(GoogleTest_data.csv) is our test data. It contains 7 columns whose details are given below:
+<ul>
 <li>Date: It contains the particular date of the stock price details.</li>
 <li>Open: The opening price of the google stock.</li>
 <li>High: Highest price of the stock on that day.</li>
