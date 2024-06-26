@@ -1,4 +1,5 @@
 **About Dataset**
+
 Here we have two datasets. First one is trained dataset and the second one is tested dataset.
 
 First dataset(DataGoogle.csv) has information about the google stock prices from year 2012 to 2016. It contains 6 columns whose details are given below:
